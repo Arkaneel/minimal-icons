@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 24.0"
+	enable-background="new 0 0 24.0 24.0"
+	xml:space="preserve">
+<defs>
+	<style type="text/css">
+		@font-face {
+			font-family: 'elsieSwashCaps'; 
+			src: url('./elsieSwashCaps.ttf');
+		}
+	</style>
+</defs>
+	<path
+		fill="#7800CC"
+		stroke="#000000"
+		fill-opacity="0.980"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M5.25,2.38L18.92,2.38A2.28 2.28 0 0 1 21.20,4.66L21.20,18.81A2.28 2.28 0 0 1 18.92,21.09L5.25,21.09A2.28 2.28 0 0 1 2.97,18.81L2.97,4.66A2.28 2.28 0 0 1 5.25,2.38z"/>
+
+	<text 
+		font-size="9.618244"
+		font-family="elsieSwashCaps"
+		stroke-width="0.24"
+		stroke="#000000"
+		stroke-opacity="0.173"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 12.084595 11.73664) scale(1.0394957 1.0)" >
+		<tspan x="5.8594403" y="15.11864">MI</tspan>
+	</text> 
+
+	<text 
+		font-size="9.618244"
+		font-family="elsieSwashCaps"
+		fill="#FFFFFF"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 12.084595 11.73664) scale(1.0394957 1.0)" >
+
+		<tspan x="5.8594403" y="15.11864">MI</tspan>
+	</text>
+</svg>

@@ -1,0 +1,41 @@
+for Home Icon
+
+<i class="a-a-home"></i>
+for add Icon
+
+<i class="a-a-add"></i>
+
+Overall Everything Uses Class
+*So Im Writing Only The Class Names
+@List of All The Available Classes
+
+a-a-home
+a-a-add
+a-a-attachment
+a-a-bolt
+a-a-code
+a-a-menu
+a-a-menu-right
+a-a-menu-grid
+a-a-menu-round
+a-a-moon
+a-a-sun
+a-a-search
+a-a-coffee
+a-a-add-rounded
+a-a-user
+a-a-user-add
+a-a-google
+a-a-card-hearts
+a-a-heart
+a-a-close
+a-a-copyright
+a-a-mic
+a-a-clipboard
+
+Everything Follows The Same Syntax
+<i class="a-a-(icon name)"></i>
+
+copyright © Arkaneel Roy
+
+contact with me on twitter for feedback and Suggestions 
